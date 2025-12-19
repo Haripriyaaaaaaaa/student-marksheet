@@ -40,3 +40,30 @@ print("===============================================")
 OUTPUT
 Enter Student Name: HARIPRIYA
 Enter Roll Number: 34
+Enter Course Name: CS
+
+Enter marks out of 100:
+
+Subject 1: 82
+Subject 2: 87
+Subject 3: 90
+Subject 4: 95
+Subject 5: 97
+
+============== STUDENT MARKSHEET ==============
+Name        : HARIPRIYA
+Roll Number : 34
+Course      : CS
+-----------------------------------------------
+Subject 1   : 82
+Subject 2   : 87
+Subject 3   : 90
+Subject 4   : 95
+Subject 5   : 97
+-----------------------------------------------
+Total Marks : 451
+Percentage  : 90.2 %
+Grade       : A+
+===============================================
+
+
